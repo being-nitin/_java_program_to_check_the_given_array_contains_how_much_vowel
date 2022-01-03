@@ -20,5 +20,6 @@ public class Main {
             }
         }
         System.out.println("The number of vowels are "+count);
+        // will return the number of vowels present in an array:
     }
 }
